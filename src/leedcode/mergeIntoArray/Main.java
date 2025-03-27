@@ -1,4 +1,4 @@
-package leedcode.com.merge_sorted_array;
+package leedcode.mergeIntoArray;
 
 import java.util.Arrays;
 
